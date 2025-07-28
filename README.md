@@ -3,7 +3,7 @@
 [![Unlicense License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<h1 align="center">Title of Project</h1>
+<h1 align="center">TP Node.js</h1>
 
 <p align="center">
   <a href="http://forthebage.com"><img src="http://forthebadge.com/images/badges/built-with-love.svg" alt="Made with love icon"/></a>
@@ -13,11 +13,7 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#roadmap">Roadmap</a></li>
-      </ul>
-    </li>
+    <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#get-started">Get Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
@@ -26,104 +22,49 @@
     </li>
     <li><a href="#launching">Launching</a></li>
     <li><a href="#built-with">Built With</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#versions">Versions</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
     <li><a href="#authors">Authors</a></li>
   </ol>
 </details>
 
 ## About the Project
 
-Petite description du projet
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Roadmap
-
-Checklist figurant la roadmap du projet (références aux issues)
+This is a little project made to exercise with Node.js. You can navigate through a menu to create, modify, delete and see your characters. All the functionnalities are implemented in different modules. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Get Started
 
-Entrez ici les instructions pour bien débuter avec votre projet...
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Prerequisites
 
-Ce qu'il est requis pour commencer avec votre projet...
-
-- Programme 1
-- Programme 2
-- etc...
+You need Node.js to launch this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Installation
 
-Les étapes pour installer votre programme....
+Open the project in a Node.js container, or install Node.js globally, then write the following command at the root of your project:
 
-Dites ce qu'il faut faire...
-
-_exemple_: Executez la commande ``telnet mapscii.me`` pour commencer ensuite [...]
-
-
-Ensuite vous pouvez montrer ce que vous obtenez au final...
+```npm install```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Launching
+Open this in your favorite code editor, and navigate through the menu in the terminal with the following command :
 
-Dites comment faire pour lancer votre projet
+```node menu.js```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Built with
-
-Entrez les programmes/logiciels/ressources que vous avez utilisé pour développer votre projet
-
-_exemples :_
-* [Materialize.css](http://materializecss.com) - Framework CSS (front-end)
-* [Atom](https://atom.io/) - Editeur de textes
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Contributing
-
-Si vous souhaitez contribuer, lisez le fichier [CONTRIBUTING.md](https://example.org) pour savoir comment le faire.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Versions
-Listez les versions ici 
-_exemple :_
-**Dernière version stable :** 5.0
-**Dernière version :** 5.1
-Liste des versions : [Cliquer pour afficher](https://github.com/your/project-name/tags)
-_(pour le lien mettez simplement l'URL de votre projets suivi de ``/tags``)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## License
-
-Ce projet est sous licence ``exemple: WTFTPL`` - voir le fichier [LICENSE.md](LICENSE.md) pour plus d'informations
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to.
+* Node.js
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Authors
 Listez le(s) auteur(s) du projet ici !
-* **Jhon doe** _alias_ [@outout14](https://github.com/outout14)
-
-Lisez la liste des [contributeurs](https://github.com/your/project/contributors) pour voir qui à aidé au projet !
+* **Thiry Prune** _alias_ [@lrigami](https://github.com/Lrigami)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -135,7 +76,7 @@ Lisez la liste des [contributeurs](https://github.com/your/project/contributors)
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[issues-url]: https://github.com/Lrigami/TP_nodejs/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
