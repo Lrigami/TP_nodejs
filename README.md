@@ -44,16 +44,26 @@ You need Node.js to launch this project.
 
 ### Installation
 
-Open the project in a Node.js container, or install Node.js globally, then write the following command at the root of your project:
+Clone this project in a new folder:
 
-```npm install```
+```bash
+git clone https://github.com/Lrigami/TP_nodejs.git
+```
+
+Open the project in a Node.js container, or install Node.js globally and write the following command at the root of your project:
+
+```bash
+npm install
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Launching
 Open this in your favorite code editor, and navigate through the menu in the terminal with the following command :
 
-```node menu.js```
+```bash
+node menu.js
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
